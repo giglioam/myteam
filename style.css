@@ -1,0 +1,63 @@
+
+
+h1 {
+    font-weight: normal;
+    font-size: 5.7rem;
+    color: #1b2e61;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+h2 {
+    font-weight: normal;
+    text-align: center;
+    font-size: 2rem;
+
+}
+
+h3 {
+    font-weight: normal;
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.navbar-inverse {
+    background-color: #f0ecdd;
+    border-color: #f0ecdd;
+}
+
+.panel-heading {
+    color; grey;
+    font-size: 2rem
+}
+
+.jumbotron {
+    background-image: url(http://averagesportsnut.files.wordpress.com/2013/01/new-england-patriots-wallpaper1.jpg);
+    background-position: 0% 25%;
+    background-repeat: no-repeat;
+    color: #1b2e61;
+    float; none;
+    vertical-align: bottom;
+    height: 600px;
+    padding: 10em;
+}
+
+.jumbotron-special {
+    background-color: #8a95b3;
+    background-repeat: no-repeat;
+    color: black;
+    text-align: center;
+    height: 200px;
+}
+.navbar-default {
+    position: fixed;
+    width: 100%;
+    z-index: 1000;
+    background: rgba(10,33,38,0.9);
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+}
+    
